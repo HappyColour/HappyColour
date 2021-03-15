@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=HappyColour
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=HappyColour)]()
 - 🔭 I’m currently working on beach.
 - 💬 Ask me about happyelement.danny@gmail.com
 <!--
