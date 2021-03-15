@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on beach.
+- 💬 Ask me about happyelement.danny@gmail.com
 <!--
 **HappyColour/HappyColour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
