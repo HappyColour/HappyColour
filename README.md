@@ -1,8 +1,8 @@
 ### Hi there 👋
-
-<a href="https://github-readme-stats.vercel.app/api?username=HappyColour">[![GitHub](https://github-readme-stats.vercel.app/api?username=HappyColour)]()</a>
+[![GitHub](https://github-readme-stats.vercel.app/api?username=HappyColour)]()
 - 🔭 I’m currently working on beach.
-- 💬 Ask me about happyelement.danny@gmail.com
+- 💬 Contact me：happyelement.danny@gmail.com
+- 😄 Resume：https://happycolour.github.io/
 <!--
 **HappyColour/HappyColour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
