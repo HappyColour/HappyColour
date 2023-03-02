@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![GitHub](https://github-readme-stats.vercel.app/api?username=HappyColour)
-- 🔭 I’m currently working in Niutron Beijing.
+- 🔭 I’m currently working on Niutron Beijing
 - 💬 Contact me：happyelement.danny@gmail.com
 - 😄 Resume：https://happycolour.github.io/
 - ![](https://visitor-badge.glitch.me/badge?page_id=HappyColour.HappyColour)
