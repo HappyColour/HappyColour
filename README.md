@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Niutron Beijing
 - 💬 Contact me：happyelement.danny@gmail.com
 - 😄 Resume：https://happycolour.github.io/
-- ![](https://visitor-badge.glitch.me/badge?page_id=HappyColour.HappyColour)
+<!-- - ![](https://visitor-badge.glitch.me/badge?page_id=HappyColour.HappyColour) -->
 <!--
 **HappyColour/HappyColour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
