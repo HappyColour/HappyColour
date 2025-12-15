@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I;m currently learning AI
+- 🔭 I’m currently currently working on AI
 - 💬 Contact me：happyelement.danny@gmail.com
 - 😄 Resume：https://happycolour.github.io/
 <!-- - ![](https://visitor-badge.glitch.me/badge?page_id=HappyColour.HappyColour) -->
